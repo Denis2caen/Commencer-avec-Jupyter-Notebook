@@ -1,2 +1,2 @@
 # Commencer-avec-Jupyter-Notebook
-quelques conseils pourla prise en main d'un notebook en ligne
+quelques conseils pour la prise en main d'un notebook en ligne
